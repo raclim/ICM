@@ -1,0 +1,31 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.poem {
+  font-family:"Courier New";
+  color:#6d6458;
+  font-size:30px;
+  text-shadow: 5px 5px #5FD9D1;
+}
+
+.button {
+  font-family:"Courier New";
+  color:white;
+/*   font-weight: bold; */
+  font-size: 14pt;
+  background-color: #FDA93C;
+  padding: 6px;
+  text-align: center;
+  border-radius: 8px;
+  border:none;
+}
+
+.button:hover {
+  background-color:#787070;
+}
+
+.button:active {
+  background-color:Tan;
+}
