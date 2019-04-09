@@ -1,0 +1,34 @@
+html{
+  background-image:linear-gradient(180deg,#efe1cb,#edb3a8);
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-family:"Lucida Grande";
+  color: #77644d;
+  text-shadow: 3px 3px #ffffff;
+}
+
+.text {
+  font-family:"Lucida Grande";
+  color:#6d6458;
+}
+
+.button {
+  font-family:"Lucida Grande";
+  color:#6d6458;
+  font-size: 10pt;
+  background-color: white;
+  padding: 6px;
+  border-radius: 8px;
+  border:none;
+}
+
+.button:hover {
+  background-color:#ffe39e;
+}
+
+.button:active {
+  background-color:Tan;
+}
