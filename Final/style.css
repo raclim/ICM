@@ -1,0 +1,31 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.text {
+  font: "Courier New";
+}
+
+.button {
+  font-family:"Courier New";
+  color:black;
+/*   font-weight: bold; */
+  font-size: 8pt;
+/*   background-color: #FFFFFF; */
+  padding: 6px;
+  text-align: center;
+  border-radius: 8px;
+  border:5;
+}
+
+.button:hover {
+  background-color:lightpink;
+}
+
+.button:active {
+  background-color:Tan;
+}
