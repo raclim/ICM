@@ -1,0 +1,23 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.button {
+  font-family:"Courier New";
+  color:white;
+/*   font-weight: bold; */
+  font-size: 14pt;
+  background-color: salmon;
+  padding: 6px;
+  text-align: center;
+  border-radius: 8px;
+  border:none;
+}
+
+.button:hover {
+  background-color:#787070;
+}
